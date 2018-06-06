@@ -1,6 +1,5 @@
 ﻿import os
 import ffmpy
-from subprocess import Popen
 
 def get_target():
     global target
