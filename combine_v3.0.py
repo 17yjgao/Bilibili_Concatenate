@@ -1,5 +1,4 @@
 ﻿import os
-import ffmpy
 
 def get_target():
     global target
